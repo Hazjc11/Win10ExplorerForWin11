@@ -1,7 +1,8 @@
 ::Created by
 ::Hazjc11 on github.com
 ::@HazPlays-13 on Youtube.com
-::This script is under the MIT License
+::Licensing information is available on this projects github page
+::https://github.com/Hazjc11/Win10ExplorerForWin11/blob/main/LICENSE
 
 @echo off
 echo Before you continue, make sure to save any unsaved data
